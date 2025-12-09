@@ -93,13 +93,6 @@ Each script runs **10 iterations** to test stability.
 
 #### Result: 100% Pass Rate
 
-<p align="center">
-  <img src="./images/run_main.png" width="500">
-</p>
-
-<p align="center"><i>Screenshot Example</i></p>
-
-
 ```
 Passed: 10/10  
 Pass Rate: 100.0%
@@ -124,7 +117,11 @@ Pass Rate: 100.0%
 
 #### Result: **100% Pass Rate**
 
-*Screenshot Example (`images/run_pass.png`)*
+<p align="center">
+  <img src="./images/run_pass.png" width="500">
+</p>
+
+<p align="center"><i>Screenshot Example</i></p>
 
 ```
 Passed: 10/10  
@@ -152,7 +149,11 @@ Because the grader is strict and the agent must follow many rules perfectly, it 
 
 #### Result: **0% Success**
 
-*Screenshot Example (`images/run_fail.png`)*
+<p align="center">
+  <img src="./images/run_fail.png" width="500">
+</p>
+
+<p align="center"><i>Screenshot Example</i></p>
 
 ```
 Passed: 0/10  
