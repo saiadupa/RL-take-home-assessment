@@ -184,8 +184,11 @@ python fail.py
 
 ---
 
-### Author
+## Project by **Nithin Sai Adupa**
 
-Project by **Nithin Sai Adupa**
+- LinkedIn: [linkedin.com/in/nithinsaiadupa](https://www.linkedin.com/in/nithinsaiadupa/)
+- Google Scholar: [View Profile](https://scholar.google.com/citations?user=0VeI8xUAAAAJ&hl=en&authuser=1)
+- PyPI: [pypi.org/user/nithinsaiadupa](https://pypi.org/user/nithinsaiadupa/)
+- Portfolio: [saiadupa.github.io](https://saiadupa.github.io/)
 
 ---
