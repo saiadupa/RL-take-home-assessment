@@ -93,7 +93,7 @@ Each script runs **10 iterations** to test stability.
 
 #### Result: 100% Pass Rate
 
-`images/run_main.png`
+*Screenshot Example (![Run Main Screenshot](./images/run_main.png))*
 
 ```
 Passed: 10/10  
